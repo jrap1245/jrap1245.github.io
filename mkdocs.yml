@@ -1,2 +1,4 @@
 site_name: HST Docs
+  nav:
+    - index.html
 
