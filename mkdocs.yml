@@ -1,4 +1,6 @@
 site_name: HST Docs
-  nav:
-    - index.html
-    - about.html
+docs_dir: 'md_docs'
+site_dir: 'docs'
+nav:
+  - 'index.html'
+  - 'about.html'
