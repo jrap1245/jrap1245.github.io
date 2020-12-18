@@ -2,5 +2,5 @@ site_name: HST Docs
 docs_dir: 'md_docs'
 site_dir: 'docs'
 nav:
-  - 'index.md'
-  - 'about.md'
+  - index.md
+  - about.md
